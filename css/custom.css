@@ -6,14 +6,7 @@
 /*------------------------------
 	MAIN
 ------------------------------*/
-html{
-    background: url(image/black-mosaic-tiles-1510.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height:100%;
-}
+html,
 body {
 	height:100%;
 }
@@ -57,7 +50,15 @@ h4 {
 	font-family:'Alegreya Sans SC';
 	margin-top:0;
 }
+#bg {
+    position: fixed;
+    top: 0;
+    left: 0;
 
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
 .content-first {
 	background-color:#34495E;
 	padding:80px 0;
@@ -243,7 +244,8 @@ header {
 
 .jumbotron {
 	margin:0;
-  	background-color:#2F4254;
+    background: url(image/ios-linen.jpg) no-repeat center center fixed;
+  	background-color:#000;
 }
 
 .jumbotron img {
