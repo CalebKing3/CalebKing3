@@ -3,11 +3,14 @@
 </a>
 
 <p align="center">
-  <a href="https://www.youtube.com/@CalebKing0"><img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=E6B70C" alt="YouTube" /></a>
-  <a href="https://newsletter.kingcaleb.com"><img src="https://img.shields.io/badge/Newsletter-050505?style=for-the-badge&logo=substack&logoColor=E6B70C" alt="Build Different newsletter" /></a>
-  <a href="https://x.com/kingcaleb3"><img src="https://img.shields.io/badge/@kingcaleb3-050505?style=for-the-badge&logo=x&logoColor=E6B70C" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/calebking3/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0U2QjcwQyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@CalebKing0"><img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=E6B70C" alt="YouTube @CalebKing0" /></a>
+  <a href="https://www.tiktok.com/@calebking.io"><img src="https://img.shields.io/badge/TikTok-050505?style=for-the-badge&logo=tiktok&logoColor=E6B70C" alt="TikTok @calebking.io" /></a>
+  <a href="https://www.instagram.com/calebking.io/"><img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E6B70C" alt="Instagram @calebking.io" /></a>
+  <a href="https://x.com/KingCaleb"><img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=E6B70C" alt="X @KingCaleb" /></a>
   <a href="https://www.facebook.com/CalebKing0"><img src="https://img.shields.io/badge/Facebook-050505?style=for-the-badge&logo=facebook&logoColor=E6B70C" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/calebking3/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0U2QjcwQyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=E6B70C" alt="LinkedIn" /></a>
+  <br />
+  <a href="https://newsletter.kingcaleb.com"><img src="https://img.shields.io/badge/Newsletter-050505?style=for-the-badge&logo=substack&logoColor=E6B70C" alt="Build Different newsletter" /></a>
   <a href="https://kingcaleb.com"><img src="https://img.shields.io/badge/kingcaleb.com-050505?style=for-the-badge&logo=readdotcv&logoColor=E6B70C" alt="Website" /></a>
   <a href="mailto:info@kingcaleb.com"><img src="https://img.shields.io/badge/Work_with_me-E6B70C?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" /></a>
 </p>
