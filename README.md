@@ -51,8 +51,7 @@ const caleb = {
 
 ## ✉️ Latest from Build Different
 
-<!-- NEWSLETTER:START -->
-- **[Your opinion of AI is probably valid but irrelevant](https://newsletter.kingcaleb.com/p/your-opinion-of-ai-is-probably-valid)** <sub>· Sep 22, 2026</sub>
+<!-- NEWSLETTER:START -->- **[Your opinion of AI is probably valid but irrelevant](https://newsletter.kingcaleb.com/p/your-opinion-of-ai-is-probably-valid)** <sub>· Sep 22, 2026</sub>
 - **[Anthropic Just Dropped An AI That Scares Cybersecurity Experts](https://newsletter.kingcaleb.com/p/anthropic-just-dropped-an-ai-that)** <sub>· Apr 13, 2026</sub>
 - **[I Got Invited to YouTube HQ. Here’s What I Learned.](https://newsletter.kingcaleb.com/p/i-got-invited-to-youtube-hq-heres)** <sub>· Apr 7, 2026</sub>
 - **[The Weirdest Thing About Getting Laid Off in 2026](https://newsletter.kingcaleb.com/p/the-weirdest-thing-about-getting)** <sub>· Mar 27, 2026</sub>
