@@ -282,11 +282,64 @@ def glyph_prompt(cx, cy):
             + f'<circle cx="{chev[1][0]}" cy="{chev[1][1]}" r="11" fill="none" stroke="{GOLD}" stroke-opacity=".35" class="breathe"/><circle cx="{chev[1][0]}" cy="{chev[1][1]}" r="4.6" fill="{GOLD}"/>')
 
 
+def glyph_pulse(cx, cy):
+    # a heartbeat trace on a construction baseline, peak marked like a gem
+    xs = [-96, -44, -30, -16, 0, 14, 30, 96]
+    ys = [0, 0, 18, -62, 44, -14, 0, 0]
+    pts_ = [(cx + x, cy + y) for x, y in zip(xs, ys)]
+    grid = "".join(f'<line x1="{cx - 96}" y1="{cy + d}" x2="{cx + 96}" y2="{cy + d}"/>' for d in (-62, 44))
+    grid += f'<line x1="{cx - 16}" y1="{cy - 84}" x2="{cx - 16}" y2="{cy + 66}" stroke-dasharray="2 5"/>'
+    ring = f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy}" r="96" fill="none" stroke="{GOLD}" stroke-opacity=".2" stroke-dasharray="1 7"/></g>'
+    base = f'<line x1="{cx - 110}" y1="{cy}" x2="{cx + 110}" y2="{cy}" stroke="{GOLD}" stroke-opacity=".3"/>'
+    px, py = pts_[3]
+    return (f'<g fill="none" stroke="{GOLD}" stroke-opacity=".18">{grid}</g>{ring}{base}'
+            f'<polyline points="{pts(pts_)}" fill="none" stroke="{GOLD}" stroke-width="2" stroke-linejoin="miter"/>'
+            + node(*pts_[0]) + node(*pts_[-1]) + node(*pts_[4])
+            + f'<circle cx="{px}" cy="{py}" r="11" fill="none" stroke="{GOLD}" stroke-opacity=".35" class="breathe"/><circle cx="{px}" cy="{py}" r="4.6" fill="{GOLD}"/>')
+
+
+def glyph_voice(cx, cy):
+    # a symmetric voice waveform, bars on a 16px module, envelope drawn as construction
+    heights = [14, 30, 52, 78, 104, 78, 52, 30, 14]
+    step = 20
+    x0 = cx - step * (len(heights) - 1) / 2
+    bars = "".join(
+        f'<line x1="{x0 + i * step}" y1="{cy - h / 2}" x2="{x0 + i * step}" y2="{cy + h / 2}" stroke="{GOLD}" stroke-width="{4 if i == 4 else 2}" stroke-linecap="round" stroke-opacity="{1 if i in (3, 4, 5) else .75}"/>'
+        for i, h in enumerate(heights))
+    env_top = [(x0 + i * step, cy - h / 2) for i, h in enumerate(heights)]
+    env = f'<polyline points="{pts(env_top)}" fill="none"/><polyline points="{pts([(x, 2 * cy - y) for x, y in env_top])}" fill="none"/>'
+    ring = f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy}" r="96" fill="none" stroke="{GOLD}" stroke-opacity=".2" stroke-dasharray="1 7"/></g>'
+    axis = f'<line x1="{cx - 110}" y1="{cy}" x2="{cx + 110}" y2="{cy}" stroke-dasharray="2 5"/>'
+    return (f'<g fill="none" stroke="{GOLD}" stroke-opacity=".2">{env}{axis}</g>{ring}{bars}'
+            + node(env_top[0][0], cy) + node(env_top[-1][0], cy)
+            + f'<circle cx="{cx}" cy="{cy - 52}" r="11" fill="none" stroke="{GOLD}" stroke-opacity=".35" class="breathe"/><circle cx="{cx}" cy="{cy - 52}" r="4.6" fill="{GOLD}"/>')
+
+
+def glyph_shield(cx, cy):
+    # a shield built from two arcs meeting at a point, with a check set on the centre axis
+    w, top, bottom = 70, cy - 78, cy + 84
+    d = (f"M{cx},{top} L{cx + w},{top + 22} L{cx + w},{cy + 4} "
+         f"Q{cx + w},{cy + 58} {cx},{bottom} Q{cx - w},{cy + 58} {cx - w},{cy + 4} L{cx - w},{top + 22} Z")
+    check = [(cx - 28, cy + 4), (cx - 6, cy + 26), (cx + 32, cy - 18)]
+    con = (f'<line x1="{cx}" y1="{top - 18}" x2="{cx}" y2="{bottom + 14}" stroke-dasharray="2 5"/>'
+           f'<line x1="{cx - w - 22}" y1="{top + 22}" x2="{cx + w + 22}" y2="{top + 22}"/>'
+           f'<line x1="{cx - w - 22}" y1="{cy + 4}" x2="{cx + w + 22}" y2="{cy + 4}"/>')
+    ring = f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy}" r="100" fill="none" stroke="{GOLD}" stroke-opacity=".2" stroke-dasharray="1 7"/></g>'
+    return (f'<g fill="none" stroke="{GOLD}" stroke-opacity=".2">{con}</g>{ring}'
+            f'<path d="{d}" fill="{GOLD}" fill-opacity=".06" stroke="{GOLD}" stroke-width="2" stroke-linejoin="miter"/>'
+            f'<polyline points="{pts(check)}" fill="none" stroke="{GOLD}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>'
+            + node(cx - w, top + 22) + node(cx + w, top + 22) + node(cx, bottom, 3.2)
+            + f'<circle cx="{cx}" cy="{top}" r="11" fill="none" stroke="{GOLD}" stroke-opacity=".35" class="breathe"/><circle cx="{cx}" cy="{top}" r="4.6" fill="{GOLD}"/>')
+
+
 CARDS = [
     ("launchkit", "01", "SaaS starter kit", "LaunchKit", ["Auth, billing, AI and teams, pre-built.", "Ship your SaaS this weekend."], "getlaunchkit.app", glyph_launch),
-    ("youtube", "02", "YouTube", "Caleb King", ["AI and engineering in plain", "language, with real examples."], "youtube.com/@CalebKing0", glyph_play),
-    ("newsletter", "03", "Newsletter", "Build Different", ["Notes from the road, engineer", "to director, in your inbox."], "newsletter.kingcaleb.com", glyph_letter),
-    ("prompts", "04", "Open source", "Prompt Library", ["My favorite AI prompts for", "image, video and product."], "github.com/CalebKing3/promptLibrary", glyph_prompt),
+    ("coachh", "02", "iPhone · Apple Watch", "Coachh", ["A 24/7 health coach that logs it all", "and tells you what to do today."], "coachh.app", glyph_pulse),
+    ("creatorbase", "03", "AI for creators", "CreatorBase", ["The AI operating system", "for personal brands."], "creatorbase-web.vercel.app", glyph_voice),
+    ("safetykit", "04", "Family safety", "SafetyKit", ["The parent's AI safety guide,", "explained in plain English."], "safetykit.app", glyph_shield),
+    ("youtube", "05", "YouTube", "Caleb King", ["AI and engineering in plain", "language, with real examples."], "youtube.com/@CalebKing0", glyph_play),
+    ("newsletter", "06", "Newsletter", "Build Different", ["Notes from the road, engineer", "to director, in your inbox."], "newsletter.kingcaleb.com", glyph_letter),
+    ("prompts", "07", "Open source", "Prompt Library", ["My favorite AI prompts for", "image, video and product."], "github.com/CalebKing3/promptLibrary", glyph_prompt),
 ]
 
 

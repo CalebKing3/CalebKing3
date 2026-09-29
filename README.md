@@ -34,13 +34,15 @@ const caleb = {
 <table>
   <tr>
     <td width="50%"><a href="https://getlaunchkit.app"><img src="./assets/cards/launchkit.svg" alt="LaunchKit: production-ready SaaS starter kit" /></a></td>
-    <td width="50%"><a href="https://www.youtube.com/@CalebKing0"><img src="./assets/cards/youtube.svg" alt="Caleb King on YouTube" /></a></td>
+    <td width="50%"><a href="https://www.coachh.app"><img src="./assets/cards/coachh.svg" alt="Coachh: a 24/7 health coach for iPhone and Apple Watch" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://newsletter.kingcaleb.com"><img src="./assets/cards/newsletter.svg" alt="Build Different newsletter" /></a></td>
-    <td width="50%"><a href="https://github.com/CalebKing3/promptLibrary"><img src="./assets/cards/prompts.svg" alt="Prompt Library" /></a></td>
+    <td width="50%"><a href="https://creatorbase-web.vercel.app/welcome"><img src="./assets/cards/creatorbase.svg" alt="CreatorBase: the AI operating system for personal brands" /></a></td>
+    <td width="50%"><a href="https://www.safetykit.app"><img src="./assets/cards/safetykit.svg" alt="SafetyKit: the parent's AI safety guide" /></a></td>
   </tr>
 </table>
+
+<sub>Also open source: <a href="https://github.com/CalebKing3/promptLibrary"><b>Prompt Library</b></a>, my favorite AI prompts for image, video and product work.</sub>
 
 ## 🎥 Latest on YouTube
 
