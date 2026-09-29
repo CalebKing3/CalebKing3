@@ -1,0 +1,50 @@
+name: Latest videos & newsletter
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-feeds
+  cancel-in-progress: false
+
+jobs:
+  youtube:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Render latest videos as cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCDr8B1HszSnuJrCnxj5MHLw
+          max_videos: 6
+          card_width: 250
+          border_radius: 12
+          max_title_lines: 2
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#111111", "stats_color": "#9C7A05" }'
+          theme_context_dark: '{ "background_color": "#050505", "title_color": "#ffffff", "stats_color": "#E6B70C" }'
+          commit_message: "chore: update latest YouTube videos"
+
+  newsletter:
+    needs: youtube
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Check out the branch tip, not the triggering commit, so we build on the YouTube job's push.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Pull latest Build Different posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://newsletter.kingcaleb.com/feed"
+          comment_tag_name: NEWSLETTER
+          max_post_count: 5
+          template: "- **[$title]($url)** <sub>· $date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update latest newsletter posts"

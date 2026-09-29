@@ -1,0 +1,33 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate gold snake from the contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#9C7A05&color_dots=#ebedf0,#f7e7ae,#efd16b,#d9ad0b,#9C7A05
+            dist/snake-dark.svg?color_snake=#FFE27A&color_dots=#161b22,#3d2f00,#7a5e06,#b88f09,#E6B70C
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: regenerate snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
