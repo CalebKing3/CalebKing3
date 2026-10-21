@@ -57,11 +57,11 @@ const caleb = {
 
 ## ✉️ Latest from Build Different
 
-<!-- NEWSLETTER:START -->- **[Your AI Is an Insider Now](https://newsletter.kingcaleb.com/p/your-ai-is-an-insider-now)** <sub>· Oct 14, 2026</sub>
+<!-- NEWSLETTER:START -->- **[My AI Tech Stack](https://newsletter.kingcaleb.com/p/my-ai-tech-stack)** <sub>· Oct 20, 2026</sub>
+- **[Your AI Is an Insider Now](https://newsletter.kingcaleb.com/p/your-ai-is-an-insider-now)** <sub>· Oct 14, 2026</sub>
 - **[What You Actually Get Here](https://newsletter.kingcaleb.com/p/what-you-actually-get-here)** <sub>· Oct 9, 2026</sub>
 - **[Your opinion of AI is probably valid but irrelevant](https://newsletter.kingcaleb.com/p/your-opinion-of-ai-is-probably-valid)** <sub>· Sep 22, 2026</sub>
 - **[Anthropic Just Dropped An AI That Scares Cybersecurity Experts](https://newsletter.kingcaleb.com/p/anthropic-just-dropped-an-ai-that)** <sub>· Apr 13, 2026</sub>
-- **[I Got Invited to YouTube HQ. Here’s What I Learned.](https://newsletter.kingcaleb.com/p/i-got-invited-to-youtube-hq-heres)** <sub>· Apr 7, 2026</sub>
 <!-- NEWSLETTER:END -->
 
 ## 🧰 Toolbox
