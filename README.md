@@ -57,11 +57,11 @@ const caleb = {
 
 ## ✉️ Latest from Build Different
 
-<!-- NEWSLETTER:START -->- **[None of Them Showed Up: How to Check an AI Clip Before You Share It](https://newsletter.kingcaleb.com/p/none-of-them-showed-up-how-to-check)** <sub>· Oct 21, 2026</sub>
+<!-- NEWSLETTER:START -->- **[Which AI Agent Is Right for You? Claude Duet vs. Dots vs. Muse vs. Grok Bot](https://newsletter.kingcaleb.com/p/which-ai-agent-is-right-for-you-claude)** <sub>· Oct 22, 2026</sub>
+- **[None of Them Showed Up: How to Check an AI Clip Before You Share It](https://newsletter.kingcaleb.com/p/none-of-them-showed-up-how-to-check)** <sub>· Oct 21, 2026</sub>
 - **[My AI Tech Stack](https://newsletter.kingcaleb.com/p/my-ai-tech-stack)** <sub>· Oct 20, 2026</sub>
 - **[Your AI Is an Insider Now](https://newsletter.kingcaleb.com/p/your-ai-is-an-insider-now)** <sub>· Oct 14, 2026</sub>
 - **[What You Actually Get Here](https://newsletter.kingcaleb.com/p/what-you-actually-get-here)** <sub>· Oct 9, 2026</sub>
-- **[Your opinion of AI is probably valid but irrelevant](https://newsletter.kingcaleb.com/p/your-opinion-of-ai-is-probably-valid)** <sub>· Sep 22, 2026</sub>
 <!-- NEWSLETTER:END -->
 
 ## 🧰 Toolbox
