@@ -57,11 +57,11 @@ const caleb = {
 
 ## ✉️ Latest from Build Different
 
-<!-- NEWSLETTER:START -->- **[How Tesla&#39;s Roadster Actually Flips &lpar;It&#39;s a Vacuum and a Fire Extinguisher&rpar;](https://newsletter.kingcaleb.com/p/how-teslas-roadster-actually-flips)** <sub>· Oct 23, 2026</sub>
+<!-- NEWSLETTER:START -->- **[Before You Let an AI Shop or Log In for You, Do This First](https://newsletter.kingcaleb.com/p/before-you-let-an-ai-shop-or-log)** <sub>· Oct 24, 2026</sub>
+- **[How Tesla&#39;s Roadster Actually Flips &lpar;It&#39;s a Vacuum and a Fire Extinguisher&rpar;](https://newsletter.kingcaleb.com/p/how-teslas-roadster-actually-flips)** <sub>· Oct 23, 2026</sub>
 - **[0 to 60 in 0.81 Seconds? Read the Fine Print Before You Pay a Dime](https://newsletter.kingcaleb.com/p/0-to-60-in-081-seconds-read-the-fine)** <sub>· Oct 22, 2026</sub>
 - **[Which AI Agent Is Right for You? Claude Duet vs. Dots vs. Muse vs. Grok Bot](https://newsletter.kingcaleb.com/p/which-ai-agent-is-right-for-you-claude)** <sub>· Oct 22, 2026</sub>
 - **[None of Them Showed Up: How to Check an AI Clip Before You Share It](https://newsletter.kingcaleb.com/p/none-of-them-showed-up-how-to-check)** <sub>· Oct 21, 2026</sub>
-- **[My AI Tech Stack](https://newsletter.kingcaleb.com/p/my-ai-tech-stack)** <sub>· Oct 20, 2026</sub>
 <!-- NEWSLETTER:END -->
 
 ## 🧰 Toolbox
