@@ -57,11 +57,11 @@ const caleb = {
 
 ## ✉️ Latest from Build Different
 
-<!-- NEWSLETTER:START -->- **[Keep the Receipts: The 2-Minute AI Log You Should Start Today](https://newsletter.kingcaleb.com/p/keep-the-receipts-the-2-minute-ai)** <sub>· Oct 24, 2026</sub>
+<!-- NEWSLETTER:START -->- **[AI Drafts, You Decide: 5 Questions Before You Act on Anything an AI Tells You](https://newsletter.kingcaleb.com/p/ai-drafts-you-decide-5-questions)** <sub>· Oct 25, 2026</sub>
+- **[Keep the Receipts: The 2-Minute AI Log You Should Start Today](https://newsletter.kingcaleb.com/p/keep-the-receipts-the-2-minute-ai)** <sub>· Oct 24, 2026</sub>
 - **[Before You Let an AI Shop or Log In for You, Do This First](https://newsletter.kingcaleb.com/p/before-you-let-an-ai-shop-or-log)** <sub>· Oct 24, 2026</sub>
 - **[How Tesla&#39;s Roadster Actually Flips &lpar;It&#39;s a Vacuum and a Fire Extinguisher&rpar;](https://newsletter.kingcaleb.com/p/how-teslas-roadster-actually-flips)** <sub>· Oct 23, 2026</sub>
 - **[0 to 60 in 0.81 Seconds? Read the Fine Print Before You Pay a Dime](https://newsletter.kingcaleb.com/p/0-to-60-in-081-seconds-read-the-fine)** <sub>· Oct 22, 2026</sub>
-- **[Which AI Agent Is Right for You? Claude Duet vs. Dots vs. Muse vs. Grok Bot](https://newsletter.kingcaleb.com/p/which-ai-agent-is-right-for-you-claude)** <sub>· Oct 22, 2026</sub>
 <!-- NEWSLETTER:END -->
 
 ## 🧰 Toolbox
