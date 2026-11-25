@@ -1,31 +1,33 @@
-<a href="https://kingcaleb.com">
-  <img src="./assets/header.svg" width="100%" alt="Caleb King — Engineer to Director. Educator, Engineer, Innovator." />
+<a href="https://www.kingcaleb.com">
+  <img src="./assets/header.svg" width="100%" alt="Caleb King — Founder, People In Tech · M.S. Cybersecurity · Ex-Forbes Engineering Director" />
 </a>
 
 <p align="center">
   <a href="https://www.youtube.com/@CalebKing0"><img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=E6B70C" alt="YouTube @CalebKing0" /></a>
   <a href="https://www.tiktok.com/@calebking.io"><img src="https://img.shields.io/badge/TikTok-050505?style=for-the-badge&logo=tiktok&logoColor=E6B70C" alt="TikTok @calebking.io" /></a>
   <a href="https://www.instagram.com/calebking.io/"><img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E6B70C" alt="Instagram @calebking.io" /></a>
-  <a href="https://x.com/KingCaleb"><img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=E6B70C" alt="X @KingCaleb" /></a>
+  <a href="https://x.com/kingcaleb3"><img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=E6B70C" alt="X @kingcaleb3" /></a>
   <a href="https://www.facebook.com/CalebKing0"><img src="https://img.shields.io/badge/Facebook-050505?style=for-the-badge&logo=facebook&logoColor=E6B70C" alt="Facebook" /></a>
-  <a href="https://www.linkedin.com/in/calebking3/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0U2QjcwQyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=E6B70C" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/calebking3"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0U2QjcwQyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=E6B70C" alt="LinkedIn" /></a>
   <br />
-  <a href="https://newsletter.kingcaleb.com"><img src="https://img.shields.io/badge/Newsletter-050505?style=for-the-badge&logo=substack&logoColor=E6B70C" alt="Build Different newsletter" /></a>
-  <a href="https://kingcaleb.com"><img src="https://img.shields.io/badge/kingcaleb.com-050505?style=for-the-badge&logo=readdotcv&logoColor=E6B70C" alt="Website" /></a>
-  <a href="mailto:info@kingcaleb.com"><img src="https://img.shields.io/badge/Work_with_me-E6B70C?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" /></a>
+  <a href="https://www.peopleintech.io/ai-platform-setup"><img src="https://img.shields.io/badge/People_In_Tech-E6B70C?style=for-the-badge&logoColor=050505" alt="People In Tech — Secure OpenAI, Google & Anthropic Setup" /></a>
+  <a href="https://www.kingcaleb.com"><img src="https://img.shields.io/badge/kingcaleb.com-050505?style=for-the-badge&logo=readdotcv&logoColor=E6B70C" alt="Website kingcaleb.com" /></a>
+  <a href="https://coachh.app"><img src="https://img.shields.io/badge/Coachh.app-050505?style=for-the-badge&logo=apple&logoColor=E6B70C" alt="Coachh.app" /></a>
+  <a href="https://www.peopleintech.io/tools/ai-readiness"><img src="https://img.shields.io/badge/AI_Readiness-050505?style=for-the-badge&logoColor=E6B70C" alt="Free AI Readiness Assessment" /></a>
 </p>
 
 ## Hey, I'm Caleb 👋
 
-I went from engineer to **Engineering Director by 30**, and now I break down AI, engineering and the tech industry on YouTube, in plain language and with real examples. I build a lot of what I talk about. I'm a Tech Dad, learning and teaching in public.
+Founder & Principal AI Consultant at **[People In Tech](https://www.peopleintech.io)**, **Ex-Forbes Engineering Director** (100M+ monthly users), and holder of an **M.S. in Cybersecurity** (Grand Canyon University) & **B.S. in CIS** (Arizona State University). After 15+ years building production software across **Forbes**, **USAA**, **WebPT** (ISO 27001 / DevSecOps), and **Ticketmaster**, I help engineering teams and growing businesses adopt AI securely — specializing in **OpenAI, Google Gemini, and Anthropic Claude** setup, software engineering AI workflows, and production engineering.
 
 ```ts
 const caleb = {
-  role:      "Engineering Director → Educator",
-  teaching:  ["AI in plain language", "engineering careers", "shipping fast"],
-  building:  "AI-native products with Claude, Next.js, Swift & Kotlin",
-  openTo:    ["speaking", "advisory", "brand partnerships"],
-  reachMe:   "info@kingcaleb.com",
+  role:      "Founder & Principal AI Consultant @ People In Tech",
+  cred:      ["M.S. Cybersecurity", "Ex-Forbes Engineering Director", "15+ yrs SWE"],
+  focus:     ["Software Engineering AI Adoption", "OpenAI · Google · Anthropic Setup", "Vibe Code Cleanup"],
+  building:  ["People In Tech (peopleintech.io)", "Coachh.app"],
+  openTo:    ["AI consulting & workshops", "Director of Eng / Head of AI / EM / SWE roles"],
+  sites:     ["https://www.peopleintech.io", "https://www.kingcaleb.com"],
 };
 ```
 
@@ -33,16 +35,19 @@ const caleb = {
 
 <table>
   <tr>
-    <td width="50%"><a href="https://getlaunchkit.app"><img src="./assets/cards/launchkit.svg" alt="LaunchKit: production-ready SaaS starter kit" /></a></td>
-    <td width="50%"><a href="https://www.coachh.app"><img src="./assets/cards/coachh.svg" alt="Coachh: a 24/7 health coach for iPhone and Apple Watch" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://creatorbase-web.vercel.app/welcome"><img src="./assets/cards/creatorbase.svg" alt="CreatorBase: the AI operating system for personal brands" /></a></td>
-    <td width="50%"><a href="https://www.safetykit.app"><img src="./assets/cards/safetykit.svg" alt="SafetyKit: the parent's AI safety guide" /></a></td>
+    <td width="50%" valign="top">
+      <strong>🛡️ <a href="https://www.peopleintech.io">People In Tech</a></strong> <em>(Scottsdale, AZ · Remote)</em><br /><br />
+      Independent AI consultancy helping teams implement <strong>OpenAI</strong> (ChatGPT Team/Enterprise &amp; API), <strong>Google</strong> (Gemini for Workspace &amp; Vertex AI), and <strong>Anthropic</strong> (Claude for Work &amp; Claude Code) with cybersecurity guardrails, workflow automation, <strong>Vibe Code Cleanup</strong>, and hands-on workshops.<br /><br />
+      <sub><em>(Independent consultancy — not affiliated with OpenAI, Google, or Anthropic.)</em></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>📱 <a href="https://coachh.app">Coachh.app</a></strong><br /><br />
+      My latest standalone app.
+    </td>
   </tr>
 </table>
 
-<sub>Also open source: <a href="https://github.com/CalebKing3/promptLibrary"><b>Prompt Library</b></a>, my favorite AI prompts for image, video and product work.</sub>
+**Free Tools & Resources:** [Secure OpenAI, Google & Anthropic Setup](https://www.peopleintech.io/ai-platform-setup) · [Free AI Readiness Assessment](https://www.peopleintech.io/tools/ai-readiness) · [Free AI ROI Calculator](https://www.peopleintech.io/tools/ai-roi-calculator) · [Executive AI Blueprint ($97)](https://www.peopleintech.io/blueprint) · [Full Bio & Credentials](https://www.peopleintech.io/caleb-king)
 
 ## 🎥 Latest on YouTube
 
@@ -54,15 +59,6 @@ const caleb = {
 [![What an AI Agent Actually Does](https://ytcards.demolab.com/?id=pSvmmZsCek0&title=What+an+AI+Agent+Actually+Does&lang=en&timestamp=1794574868&background_color=%23050505&title_color=%23ffffff&stats_color=%23E6B70C&max_title_lines=2&width=250&border_radius=12 "What an AI Agent Actually Does")](https://www.youtube.com/shorts/pSvmmZsCek0#gh-dark-mode-only)[![What an AI Agent Actually Does](https://ytcards.demolab.com/?id=pSvmmZsCek0&title=What+an+AI+Agent+Actually+Does&lang=en&timestamp=1794574868&background_color=%23ffffff&title_color=%23111111&stats_color=%239C7A05&max_title_lines=2&width=250&border_radius=12 "What an AI Agent Actually Does")](https://www.youtube.com/shorts/pSvmmZsCek0#gh-light-mode-only)
 [![What Does an AI Agent Actually Do? (Not What You Think)](https://ytcards.demolab.com/?id=aSPIC1A0288&title=What+Does+an+AI+Agent+Actually+Do%3F+%28Not+What+You+Think%29&lang=en&timestamp=1794425804&background_color=%23050505&title_color=%23ffffff&stats_color=%23E6B70C&max_title_lines=2&width=250&border_radius=12 "What Does an AI Agent Actually Do? (Not What You Think)")](https://www.youtube.com/watch?v=aSPIC1A0288#gh-dark-mode-only)[![What Does an AI Agent Actually Do? (Not What You Think)](https://ytcards.demolab.com/?id=aSPIC1A0288&title=What+Does+an+AI+Agent+Actually+Do%3F+%28Not+What+You+Think%29&lang=en&timestamp=1794425804&background_color=%23ffffff&title_color=%23111111&stats_color=%239C7A05&max_title_lines=2&width=250&border_radius=12 "What Does an AI Agent Actually Do? (Not What You Think)")](https://www.youtube.com/watch?v=aSPIC1A0288#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
-
-## ✉️ Latest from Build Different
-
-<!-- NEWSLETTER:START -->- **[Build Quiet, Launch Once: The 7-Step Checklist Behind a Demo That Hits](https://newsletter.kingcaleb.com/p/build-quiet-launch-once-the-7-step)** <sub>· Oct 25, 2026</sub>
-- **[AI Drafts, You Decide: 5 Questions Before You Act on Anything an AI Tells You](https://newsletter.kingcaleb.com/p/ai-drafts-you-decide-5-questions)** <sub>· Oct 25, 2026</sub>
-- **[Keep the Receipts: The 2-Minute AI Log You Should Start Today](https://newsletter.kingcaleb.com/p/keep-the-receipts-the-2-minute-ai)** <sub>· Oct 24, 2026</sub>
-- **[Before You Let an AI Shop or Log In for You, Do This First](https://newsletter.kingcaleb.com/p/before-you-let-an-ai-shop-or-log)** <sub>· Oct 24, 2026</sub>
-- **[How Tesla&#39;s Roadster Actually Flips &lpar;It&#39;s a Vacuum and a Fire Extinguisher&rpar;](https://newsletter.kingcaleb.com/p/how-teslas-roadster-actually-flips)** <sub>· Oct 23, 2026</sub>
-<!-- NEWSLETTER:END -->
 
 ## 🧰 Toolbox
 
@@ -87,5 +83,5 @@ const caleb = {
 </picture>
 
 <p align="center">
-  <sub>Videos and newsletter update automatically every day. Built with ☕ and Claude.</sub>
+  <sub>YouTube feed &amp; contribution graph update automatically. Built with ☕.</sub>
 </p>
